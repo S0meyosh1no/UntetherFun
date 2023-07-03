@@ -4,6 +4,10 @@
 - Install patched TestFlight with FSUntether
 - Automaticaly run nc, iproxy
 - nothing else
+# Not installing?
+If TestFLight is not instaling it means cert has been revoked
+If it has been revoked, message me in discord: @s0meyosh1no
+
 # How to run?
 ```
 chmod +x jb.sh && chmod +x helper.sh && jb.sh
